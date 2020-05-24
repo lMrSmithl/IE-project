@@ -1,0 +1,49 @@
+2020-05-24 17:59:03,565 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2 - Database [default] initialized at jdbc:h2:./tmp/defaultdatabase
+2020-05-24 17:59:03,579 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2 - Creating Pool for datasource 'default'
+2020-05-24 17:59:03,597 [INFO] from com.zaxxer.hikari.HikariDataSource in play-dev-mode-akka.actor.default-dispatcher-2 - HikariPool-1 - Starting...
+2020-05-24 17:59:03,621 [INFO] from com.zaxxer.hikari.HikariDataSource in play-dev-mode-akka.actor.default-dispatcher-2 - HikariPool-1 - Start completed.
+2020-05-24 17:59:04,172 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2020-05-24 17:59:04,491 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-05-24 17:59:04,505 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2 - Application started (Dev) (no global state)
+2020-05-24 17:59:11,255 [INFO] from application in application-akka.actor.default-dispatcher-3 - Shutting down connection pool.
+2020-05-24 17:59:11,258 [INFO] from com.zaxxer.hikari.HikariDataSource in application-akka.actor.default-dispatcher-3 - HikariPool-1 - Shutdown initiated...
+2020-05-24 17:59:11,474 [INFO] from com.zaxxer.hikari.HikariDataSource in application-akka.actor.default-dispatcher-3 - HikariPool-1 - Shutdown completed.
+2020-05-24 17:59:11,826 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-4 - Database [default] initialized at jdbc:h2:./tmp/defaultdatabase
+2020-05-24 17:59:11,827 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'default'
+2020-05-24 17:59:11,828 [INFO] from com.zaxxer.hikari.HikariDataSource in play-dev-mode-akka.actor.default-dispatcher-4 - HikariPool-2 - Starting...
+2020-05-24 17:59:11,828 [INFO] from com.zaxxer.hikari.HikariDataSource in play-dev-mode-akka.actor.default-dispatcher-4 - HikariPool-2 - Start completed.
+2020-05-24 17:59:11,975 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2020-05-24 17:59:12,108 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-05-24 17:59:12,112 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)
+2020-05-24 18:00:53,196 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2020-05-24 18:00:53,196 [INFO] from com.zaxxer.hikari.HikariDataSource in application-akka.actor.default-dispatcher-4 - HikariPool-2 - Shutdown initiated...
+2020-05-24 18:00:53,408 [INFO] from com.zaxxer.hikari.HikariDataSource in application-akka.actor.default-dispatcher-4 - HikariPool-2 - Shutdown completed.
+2020-05-24 18:00:53,865 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-4 - Database [default] initialized at jdbc:h2:./tmp/defaultdatabase
+2020-05-24 18:00:53,923 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-4 - Creating Pool for datasource 'default'
+2020-05-24 18:00:53,933 [INFO] from com.zaxxer.hikari.HikariDataSource in play-dev-mode-akka.actor.default-dispatcher-4 - HikariPool-3 - Starting...
+2020-05-24 18:00:53,935 [INFO] from com.zaxxer.hikari.HikariDataSource in play-dev-mode-akka.actor.default-dispatcher-4 - HikariPool-3 - Start completed.
+2020-05-24 18:00:54,167 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2020-05-24 18:00:54,327 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-4 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.cors.CORSFilter
+
+2020-05-24 18:00:54,367 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-4 - Application started (Dev) (no global state)
+2020-05-24 18:02:59,945 [WARN] from play in application-akka.actor.default-dispatcher-3 - You are using status code '204' with flashing, which should only be used with a redirect status!
+2020-05-24 18:06:45,677 [WARN] from play in application-akka.actor.default-dispatcher-3 - You are using status code '204' with flashing, which should only be used with a redirect status!
+2020-05-24 18:08:36,142 [WARN] from play in application-akka.actor.default-dispatcher-3 - You are using status code '204' with flashing, which should only be used with a redirect status!
+2020-05-24 18:09:32,151 [WARN] from play in application-akka.actor.default-dispatcher-3 - You are using status code '204' with flashing, which should only be used with a redirect status!
