@@ -1,0 +1,25 @@
+.add {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #2eda03 5%, #47eb70 100%);
+	background-color:#2eda03;
+	border-radius:6px;
+	border:1px solid #47eb70;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:15px 50px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #ffffff;
+    margin-left: 230px;
+}
+.add:hover {
+	background:linear-gradient(to bottom, #47eb70 5%, #2eda03 100%);
+	background-color:#47eb70;
+}
+.add:active {
+	position:relative;
+	top:1px;
+}
