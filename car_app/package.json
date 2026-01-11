@@ -11,7 +11,7 @@
     "react-notification-component": "^1.1.4",
     "react-notifications-component": "^2.4.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-toastify": "^6.0.5",
     "styled-components": "^5.1.0"
   },
